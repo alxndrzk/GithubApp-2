@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="insert_username_search">Search Username</string>
+    <string name="testing_text_search">this is a serachbar activity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="following_title">Following</string>
+    <string name="followers_title">Followers</string>
+    <string name="repo_title">Repo</string>
+    <string name="gits_title">Gits</string>
+    <string name="menu_settings">menu_settings</string>
+    <string name="menu_love">menu_love</string>
+    <string name="loved">loved</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="Light_mode">Light mode</string>
+    <string name="button_back">button back</string>
+    <string name="settings">Settings</string>
+    <string name="followers">followers</string>
+</resources>
