@@ -12,6 +12,6 @@ fitur untuk menampilkan detail user atau account
 3. **FAVORITE** <P>
 fitur untuk menambahkan user atau account yang favorit 
 
-4, **TEMA** <P>
+4. **TEMA** <P>
 fitur untuk merubah tema, light theme atau dark theme. terapat penyimpanan key value juga sehingga ketika aplikasi dibuka lagi, maka theme yang diubah terakhir kali akan menjai default theme
 
